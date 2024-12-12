@@ -1,14 +1,8 @@
 [
-  {
-    "username": "1",
-    "password": "1",
-    "subscription": "Supreme-Essential-Legit",
-    "key": "ao0m0cv1"
-  },
-  {
-    "username": "2",
-    "password": "2",
-    "subscription": "Subscription 3",
-    "key": "pqs8f1rj"
-  }
+    {
+        "username": "1",
+        "password": "1",
+        "subscription": "Supreme-Essential-Legit",
+        "key": "ao0m0cv1"
+    }
 ]
