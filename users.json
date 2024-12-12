@@ -1,1 +1,16 @@
-[{"username": "1", "password": "1", "subscription": "Supreme-Essential", "hwid": "238146185214673", "key": "pvvdbmpw"}]
+[
+  {
+    "username": "1",
+    "password": "1",
+    "subscription": "Supreme-Essential",
+    "hwid": "238146185214673",
+    "key": "pvvdbmpw"
+  },
+  {
+    "username": "2",
+    "password": "2",
+    "subscription": "Legit",
+    "hwid": "Sample_HWID_12345",
+    "key": "8moojyie"
+  }
+]
