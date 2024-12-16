@@ -330,10 +330,11 @@
   {
     "username": "1",
     "password": "1",
-    "hwid": "238146185214673",
+    "hwid": "",
     "subscription": "Supreme-Essential-Legit",
     "expireDate": "2045-12-13",
-    "key": "hnoijpz2"
+    "key": "hnoijpz2",
+    "hwidResets": 1
   },
   {
     "username": "dagi",
